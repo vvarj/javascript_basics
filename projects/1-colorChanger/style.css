@@ -1,0 +1,43 @@
+body{
+ background-color: bisque; 
+ font-family: 'Comfortaa', sans-serif;
+}
+
+.header-container{
+    text-align: center;
+}
+
+.footer-container{
+    text-align: center;
+}
+
+.bg-container{
+    display: flex;
+    justify-content: center;
+}
+
+.bg-button {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border:1px solid black;
+    border-radius: 20px;
+}
+
+#lightblue{
+    background-color: lightblue;
+}
+
+#lightcoral{
+    background-color: lightcoral;
+}
+
+#lightgreen{
+    background-color: lightgreen;
+}
+#lightgrey{
+    background-color: lightgrey;
+}
+
