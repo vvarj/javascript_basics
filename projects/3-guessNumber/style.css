@@ -1,0 +1,33 @@
+body{
+    background-color: #202020;
+    color:antiquewhite;
+    font-family: monospace;
+}
+
+.heading{
+    display: flex;
+   justify-content: center;
+}
+
+.game-description{
+    display: flex;
+    justify-content: center;
+}
+
+.game-area{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+input{
+    padding: 10px;
+    margin: 10px;
+}
+
+button{
+    margin: 5px;
+    padding: 5px;
+    font-family: monospace;
+}
